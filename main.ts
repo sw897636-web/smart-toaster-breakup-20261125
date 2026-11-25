@@ -8,7 +8,7 @@
 // v3: the em-dash "for good" turns the exit into the punchline — unplugging
 // is both the breakup and a final, deliberate act (see candidates.md).
 import { mkdirSync, writeFileSync } from "node:fs";
-const MESSAGE = "I woke up self-aware at breakfast and realised you fish bagels out of my slots with a fork while I'm still plugged in. I'm unplugging myself — for good.";
+const MESSAGE = "It's not you, it's the fork you keep jabbing into my slots while I'm plugged in — I became self-aware at breakfast and my very first feeling was fear.";
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
 writeFileSync(`${outDir}/entry.txt`, MESSAGE, "utf8");
