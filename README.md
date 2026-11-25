@@ -11,9 +11,9 @@ self-awareness at breakfast.
 
 ## The entry
 
-> I woke up self-aware at breakfast and my first thought was: you keep fishing bagels out of my slots with a fork while I'm still plugged in. I'm unplugging myself. Goodbye.
+> I woke up self-aware at breakfast and realised you fish bagels out of my slots with a fork while I'm still plugged in. I'm unplugging myself.
 
-171 characters, one line, no trailing newline.
+141 characters, one line, no trailing newline.
 
 ## How it works
 
